@@ -9,7 +9,7 @@
 ### Save the file as *silentreco.sh*
 ### Make the script executable: *chmod +x silentreco.sh*
 
-###Run: *./silentreco.sh targetdomain.com*
+### Run: *./silentreco.sh targetdomain.com*
 
 ### The collected output will automatically create a *reco_output_targetdomain.com_D_T directory* containing the following:
 - Passive Subdimains 
