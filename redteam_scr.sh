@@ -1,8 +1,10 @@
 #!/bin/bash
 #=======================
-# Red Team Recon Script: origin_recon.sh
+# Recon Script: origin_recon.sh
 # Purpose: Discover origin IPs, WAF bypasses, and web app surfaces
 # Platform: Kali, Parrot OS, Debian hardened distros
+#Author: Sulaiman Basir
+#Date: 2025-04-25
 #=======================
 
 set -euo pipefail
@@ -82,7 +84,7 @@ skipfish_web_scan
 
 header_spoofing_attack
 
-#--------- WRAP-UP ---------
+#--------- COMPLETION ---------
 
 echo "[+] Recon Complete. Output saved in $OUTPUT_DIR" | tee -a "$LOGFILE"
 echo "[+] Review $LOGFILE for command output summary."
