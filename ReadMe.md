@@ -1,6 +1,8 @@
 
 # Silent Reconnaissance 
 **Pwnsentinel: Sulaiman Basir**
+### Testing in progress.
+### Only for ethical research use.
 
 
 

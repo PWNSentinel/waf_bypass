@@ -3,8 +3,9 @@
 # Recon Script: origin_recon.sh
 # Purpose: Discover origin IPs, WAF bypasses, and web app surfaces
 # Platform: Kali, Parrot OS, Debian hardened distros
-#Author: Sulaiman Basir
-#Date: 2025-04-25
+# Author: Sulaiman Basir
+# Date: 2025-04-25
+# Notes: Script retesting in progress.
 #=======================
 
 set -euo pipefail
