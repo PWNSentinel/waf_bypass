@@ -1,10 +1,10 @@
 
 # Silent Reconnaissance 
 **Pwnsentinel: Sulaiman Basir**
-### Testing in progress.
-### Only for ethical research use.
+- Testing in progress.
+- Only for ethical research use.
 
-
+---
 
 ## **To use the silent reconn script**
 
