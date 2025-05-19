@@ -6,7 +6,7 @@
 
 ---
 
-## **To use the silent reconn script**
+## **Using the WAF silent reconn script**
 
 ### Save the file as *silentreco.sh*
 ### Make the script executable: *chmod +x silentreco.sh*
@@ -21,5 +21,6 @@
 - Skipfish Report
 - Header Spoof
 - Full Scan Log
+
 
 
